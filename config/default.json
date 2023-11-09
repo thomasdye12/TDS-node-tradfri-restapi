@@ -1,8 +1,1 @@
-{
-    "securityId" : "wKcpZ54ooIUtpgYc",
-    "hubIpAddress" : "10.0.10.130",
-    "identity" : "TDS",
-    "preshared_key" : "SO47YlGlUNKfovEl",
-    "coapClientPath" : "/Server/app/tradfri/node-tradfri-restapi-master/libcoap/examples/coap-client",
-    "port" : 9902
-}
+
