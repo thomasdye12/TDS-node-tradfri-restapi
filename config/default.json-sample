@@ -1,0 +1,8 @@
+{
+    "securityId" : "",
+    "hubIpAddress" : "",
+    "identity" : "",
+    "preshared_key" : "",
+    "coapClientPath" : "",
+    "port" : 9902
+}
